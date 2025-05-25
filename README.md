@@ -91,8 +91,9 @@ which model? each has a training script in `/train`. Script includes training an
 python train/train_<model-type>.py
 ```
 
-### 3️⃣ Prediction with a sampel image
+### 3️⃣ Prediction with a sample image
 Use the `predict.ipynb` notebook. Make sure to have the models in the `checkpoints/` folder with the appropriate names. 
+![Alt text](predictions.png)
 
 ## 🧠 Model Details
 
