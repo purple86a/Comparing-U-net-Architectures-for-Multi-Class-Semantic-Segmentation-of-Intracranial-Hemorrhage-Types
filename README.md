@@ -128,6 +128,9 @@ Use the `predict.ipynb` notebook. Make sure to have the models in the `checkpoin
    - 6 output channels
    - Probability maps
 
+## 🥸 Gradio App on HuggingFace
+If you would like to try the best U-Net ResNet101 backbone with SCSE attention checkout this [Link!](https://huggingface.co/spaces/purplewater/Multi-class-semantic-segmentation-of-intracranial-hemorrhage-types-in-ct-scans).
+
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
